@@ -10,8 +10,23 @@ IF YOUR WORKSHOP INCLUDES COMPUTE:
 
 # Data and Compute Setup
 
-#### Course data downloads
-Coming soon!
+#### Course Data Downloads
+1. Download data for the workshop: AUR2024_data.zip.
 
-#### Compute setup
-Coming soon!
+2. Move the zip file to your working directory (usually under "/Users/yourname").
+
+3. Unzip the file. You should see a folder with four files in it.
+
+#### Compute Setup
+A checklist to setup your laptop can be found here.
+
+Install these tools on your laptop before coming to the workshop:
+
+1. R (4.0+) Note: MacBook users with an Apple silicon chip (e.g., M1 or M2) should install the “arm64” version of R, while MacBook users with an Intel chip should install the regular (64-bit) version of R. You can check your laptop’s hardware specifications by clicking the Apple icon (top left corner) > About This Mac and verifying whether the chip is Apple or Intel.
+
+2. Rstudio
+
+3. Make sure you have a robust internet browser such as Firefox, Safari or Chrome (not Internet Explorer).
+
+4. Make sure you have a PDF viewer (e.g. Adobe Acrobat, Preview or similar) or that you can read PDF files in your Web browser.
+

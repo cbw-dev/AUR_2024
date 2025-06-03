@@ -1,34 +1,44 @@
 # Meet Your Faculty
 
-#### NAME
+#### Shraddha Pai
 
-<img src="./img/faculty/MISSINGHEADSHOT.PNG" width="200" alt="Photo of NAME">
+<img src="./img/faculty/shraddha-pai.jpg" width="200" alt="Photo of Shraddha Pai.">
 
->JOB TITLE <br>
-INSTITUTION <br>
-LOCATION
+>Investigator I, OICR <br>
+Assistant Professor, University of Toronto <br>
 >
-> --- CONTACT INFO, IF PROVIDED
 
-BIO GOES HERE
+Dr. Pai integrates genomics and computational methods to advance precision medicine. Her previous work involves DNA methylome-based biomarker discovery in psychosis, and building machine learning algorithms for patient classification from multi-modal data. The Pai Lab at the Ontario Institute for Cancer Research focuses on biomarker discovery for detection, diagnosis and prognosis in brain cancers and other brain-related disorders.
 
-#### Michelle Brazas, PhD
+#### Chaitra Sarathy
 
-<img src="./img/faculty/michelle-brazas.jpg" width="200" alt="Photo of Michelle Brazas.">
+<img src="./img/faculty/chaitra-sarathy.jpg" width="200" alt="Photo of Chaitra Sarathy.">
 
-
->Scientific Director <br>
-Canadian Bioinformatics Workshops (CBW) <br>
-Toronto, ON, CA
+>Bioinformatics Specialist <br>
+Krembil Research Institute <br>
 >
-> --- director@bioinformatics.ca
 
-Dr. Michelle Brazas is the Associate Director for Adaptive Oncology at the Ontario Institute for
-Cancer Research (OICR), and acting Scientific Director at Bioinformatics.ca. Previously, Dr.
-Brazas was the Program Manager for Bioinformatics.ca and a faculty member in
-Biotechnology at BCIT. Michelle co-founded and runs the Toronto Bioinformatics User Group
-(TorBUG) now in its 11th season, and plays an active role in the International Society of
-Computational Biology where she sits on the Board of Directors and Executive Board.
+Dr. Sarathy is a computational biologist with industry experience in software development. Her previous research centered around developing multi-scale mathematical models of human systems to characterise biochemical changes in obesity. In addition, she has developed methods based on machine learning and multi-omics integration to identify drug targets in cancer and stratify patients for clinical trials. She currently focuses on characterizing genetic malfunctions in neurological diseases.
+
+#### Ian Cheong
+
+<img src="./img/faculty/ian-cheong.jpg" width="200" alt="Photo of Ian Cheong.">
+
+>MSc. Candidate <br>
+University of Toronto <br>
+>
+
+Ian is a Master’s level candidate in the Department of Medical Biophysics at the University of Toronto. His thesis work in the Pai lab involves analysis of single-cell transcriptomes to find the link between brain development and the development of childhood brain cancer.
+
+#### Zoe Klein
+
+<img src="./img/faculty/zoe-klein.jpg" width="200" alt="Photo of Zoe Klein.">
+
+>PhD. Candidate <br>
+University of Toronto <br>
+>
+
+Zoe is a PhD level candidate in the Department of Molecular Genetics at the University of Toronto. Her thesis work in the Reimand lab involves using computational tools to investigate the role of non-coding RNA in cancer. 
 
 #### Nia Hughes (she/her)
 

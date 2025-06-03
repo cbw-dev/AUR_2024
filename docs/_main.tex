@@ -137,14 +137,14 @@
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
 \urlstyle{same}
 \hypersetup{
-  pdftitle={{[}Name of Workshop{]}{[}Year{]}},
-  pdfauthor={Instructors: {[}list instructor names here{]}},
+  pdftitle={NAME OF WORKSHOP YEAR},
+  pdfauthor={Faculty: INSTRUCTOR AND TA NAMES},
   hidelinks,
   pdfcreator={LaTeX via pandoc}}
 
-\title{{[}Name of Workshop{]}{[}Year{]}}
-\author{Instructors: {[}list instructor names here{]}}
-\date{{[}Insert dates of the workshop{]}}
+\title{NAME OF WORKSHOP YEAR}
+\author{Faculty: INSTRUCTOR AND TA NAMES}
+\date{DATES}
 
 \begin{document}
 \maketitle
@@ -155,85 +155,82 @@
 }
 \part{Introduction}\label{part-introduction}
 
-\chapter{Welcome}\label{welcome}
+\chapter{Workshop Info}\label{workshop-info}
 
-Welcome to CBW's {[}workshop name, year{]} Workshop!
+Welcome to the YEAR WORKSHOP Canadian Bioinformatics Workshop webpage!
 
-Put some introductory content here. (ex. links to bioinformatics.ca, general info)
+\section{Schedule}\label{schedule}
 
-\chapter{Course Schedule}\label{course-schedule}
+YOUR SCHEDULE HERE
 
-Copy paste a table into \url{https://www.tablesgenerator.com/markdown_tables} (select convert to markdown) to create a table in markdown.
+\section{Pre-work}\label{pre-work}
 
-\section{Pre-workshop Materials}\label{pre-workshop-materials}
+\href{LINK\%20TO\%20PREWORK}{You can find your pre-work here.}
 
-Click \href{insert\%20link\%20here}{here} for your prework!
+\chapter{Meet Your Faculty}\label{meet-your-faculty}
 
-\section{Computing Setup \& Downloads}\label{computing-setup-downloads}
-
-Insert downloads (ex. datasets) or other tech instructions here (ex. AWS Instructions)
-
-\section{Meet Your Faculty}\label{meet-your-faculty}
-
-Here's your team!
-
-\subsection{Instructor, TA, \ldots{}}\label{instructor-ta}
+\subsubsection{Shraddha Pai}\label{shraddha-pai}
 
 \begin{quote}
-Job Title
-Company/University/\ldots{}
-Location
-
---- contact information
+Investigator I, OICR
+Assistant Professor, University of Toronto
 \end{quote}
 
-{[}insert description of the person{]}
+Dr.~Pai integrates genomics and computational methods to advance precision
+medicine. Her previous work involves DNA methylome-based biomarker discovery in psychosis, and building machine learning algorithms for patient classification from multi-modal data. The Pai Lab at the Ontario Institute for Cancer Research focuses on biomarker discovery for detection, diagnosis and prognosis in brain cancers and other brain-related disorders.
 
-\subsection{Michelle Brazas, PhD}\label{michelle-brazas-phd}
-
-\includegraphics{./img/faculty/michelle-brazas.jpg}\\
+\subsubsection{Chaitra Sarathy}\label{chaitra-sarathy}
 
 \begin{quote}
-Scientific Director
-Canadian Bioinformatics Workshops (CBW)
-Toronto, ON, CA
-
---- \href{mailto:support@bioinformatics.ca}{\nolinkurl{support@bioinformatics.ca}}
+Bioinformatics Specialist
+Krembil Research Institute
 \end{quote}
 
-Dr.~Michelle Brazas is the Associate Director for Adaptive Oncology at the Ontario Institute for
-Cancer Research (OICR), and acting Scientific Director at Bioinformatics.ca. Previously, Dr.
-Brazas was the Program Manager for Bioinformatics.ca and a faculty member in
-Biotechnology at BCIT. Michelle co-founded and runs the Toronto Bioinformatics User Group
-(TorBUG) now in its 11th season, and plays an active role in the International Society of
-Computational Biology where she sits on the Board of Directors and Executive Board.
+Dr.~Sarathy is a computational biologist with industry experience in software development. Her previous research centered around developing multi-scale mathematical models of human systems to characterise biochemical changes in obesity. In addition, she has developed methods based on machine learning and multi-omics integration to identify drug targets in cancer and stratify patients for clinical trials. She currently focusses on characterising genetic malfunctions in neurological diseases.
 
-\subsection{Nia Hughes (she/her)}\label{nia-hughes-sheher}
-
-\includegraphics{./img/faculty/nia-hughes.jpeg}\\
+\subsubsection{Ian Cheong}\label{ian-cheong}
 
 \begin{quote}
-Program Manager, Bioinformatics.ca
+MSc. Candidate
+University of Toronto
+\end{quote}
+
+Ian is a Master's level candidate in the Department of Medical Biophysics at the University of Toronto. His thesis work in the Pai lab involves analysis of single-cell transcriptomes to find the link between brain development and the development of childhood brain cancer.
+
+\subsubsection{Zoe Klein}\label{zoe-klein}
+
+\begin{quote}
+PhD. Candidate
+University of Toronto
+\end{quote}
+
+Zoe is a PhD level candidate in the Department of Molecular Genetics at the University of Toronto. Her thesis work in the Reimand lab involves using computational tools to investigate the role of non-coding RNA in cancer.
+
+\subsubsection{Nia Hughes (she/her)}\label{nia-hughes-sheher}
+
+\begin{quote}
+Platform Training Manager, Canadian Bioinformatics Hub
 Ontario Institute for Cancer Research
 Toronto, ON, Canada
 
---- \href{mailto:nia.hughes@oicr.on.ca}{\nolinkurl{nia.hughes@oicr.on.ca}}
+--- \href{mailto:training@bioinformatics.ca}{\nolinkurl{training@bioinformatics.ca}}
 \end{quote}
 
-Nia is the Program Manager for Bioinformatics.ca, where she coordinates the Canadian
-Bioinformatics Workshop Series. Prior to starting at OICR, she completed her M.Sc. in
-Bioinformatics from the University of Guelph in 2020 before working there as a
-bioinformatician studying epigenetic and transcriptomic patterns across maize varieties.
+Nia is the Platform Training Manager for the Canadian Bioinformatics Hub, where she coordinates the Canadian Bioinformatics Workshop Series. Prior to starting at OICR, she completed her M.Sc. in Bioinformatics from the University of Guelph in 2020 before working there as a bioinformatician studying epigenetic and transcriptomic patterns across maize varieties.
 
-\section{Class Photo}\label{class-photo}
+\chapter{Data and Compute Setup}\label{data-and-compute-setup}
 
-\textless- Replace the file address to your actual class photo file location
+\subsubsection{Course data downloads}\label{course-data-downloads}
+
+Coming soon!
+
+\subsubsection{Compute setup}\label{compute-setup}
+
+Coming soon!
 
 \part{Modules}\label{part-modules}
 
 \chapter{Module 1}\label{module-1}
-
-Welcome to module 1!
 
 \section{Lecture}\label{lecture}
 
@@ -292,12 +289,6 @@ Try running these code ``chunks'' by pressing the green (left-pointing) triangle
 You will see the code run in the console and the output provided below the code chunk.
 
 The output of the code will also be produced under the code chunk on your website page.
-
-\chapter{Module 2}\label{module-2}
-
-\section{Lecture}\label{lecture-1}
-
-\section{Lab}\label{lab-1}
 
   \bibliography{book.bib,packages.bib}
 
