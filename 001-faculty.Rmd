@@ -40,7 +40,7 @@ University of Toronto <br>
 
 Zoe is a PhD level candidate in the Department of Molecular Genetics at the University of Toronto. Her thesis work in the Reimand lab involves using computational tools to investigate the role of non-coding RNA in cancer. 
 
-#### Nia Hughes (she/her)
+#### Nia Hughes
 
 <img src="./img/faculty/nia-hughes.jpeg" width="200" alt="Photo of Nia Hughes.">
 
